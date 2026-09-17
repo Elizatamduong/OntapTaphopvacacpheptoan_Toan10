@@ -1,0 +1,6 @@
+{
+  "name": "Đường Đua 4 Tổ - Tập Hợp & Phép Toán",
+  "description": "Website game giáo dục tương tác lớp học 'Đường Đua 4 Tổ' dành cho giáo viên trình chiếu bài học Toán 10: Tập hợp và các phép toán trên tập hợp. Biên soạn & Giảng dạy: Eliza Tâm Dương - SĐT: 0962571826.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
